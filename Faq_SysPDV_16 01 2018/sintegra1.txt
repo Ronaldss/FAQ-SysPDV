@@ -1,0 +1,13 @@
+Gerar Sintegra (Arquivo de exportacao Fiscal)
+---------------------------------------------------------
+	
+	* Cadastro do Contribuinte precisa esta cadastrado.
+
+	* Popular o banco fiscal
+
+	* Escolher a opcao SINTEGRA e periodo referente.
+
+	* Escolher os tipos de registros.
+
+	* Clicar em Gerar-F9
+

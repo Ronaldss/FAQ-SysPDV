@@ -1,0 +1,200 @@
+Tributacao (SysPDV)  -- Cliente Simples nacional
+
+
+*** Tributacoes existentes ***
+
+F00 FONTE
+I00 ISENTO
+N00 NAO TRIBUTADO
+T07 TRIBUTADO 7
+T18 TRIBUTADO 18
+
+
+==========================================================================
+Código F 00 (FONTE) "Substituição Tributária"
+
+Entradas
+-----------
+Alíquota: 0,00     Redução: 0,00  Incentivo(%):0,00  Tabela B: 60   CSOSN: 500    CFOP Estadual: 11020    CFOP Interestadual: 21020
+
+
+Saida (Nota Fiscal)
+-----------------------
+Alíquoca: 0,00  Redução: 0,00  Incentivo (%):  0,00   Tabela B: 60   CSOSN: 500 CFOP Estadual: 54050
+
+
+Saida (Nota Fiscal) - Interestadual
+-------------------------------------------
+Alíquota: 0,00   Redução: 0,00 CFOP  Interestadual:      Tacbela B: 60 
+
+
+Saída (Cupom Fiscal / Consulmidor Final)
+-----------------------------------------------------
+Símbolo: F   Tabela B: 60   CSOSN: 500  CFOP Estadual: 54050   Alíquota ECF: 0,00   Posição no ECF: ---
+
+==========================================================================
+
+
+
+==========================================================================
+Código I 00 (ISENTO)
+
+Entrada
+----------
+Alíquota: 0,00   Redução: 0,00   Incentivo(%): 0,00   Tabela B: 40   CSOSN:   CFOP Estadual:    CFOP Interestadual:  
+
+
+
+Saída (Nota Fiscal)
+------------------------
+Alíquota: 0,00   Redução: 0,00   Incentivo (%): 0,00   Tabela B: 40   CSOSN:     CFOP Estadual: 
+
+
+
+Saída (Nota Fiscal) - Interestadual
+-------------------------------------------
+Alíquota: 0,00   Redução: 0,00   CFOP Interestadual:    Tabela B: 40
+
+
+Saída (Cupom Fiscal / Consumidor Final)
+-----------------------------------------------------
+Símbolo: I   Tabela B: 40    CSOSN:    CFOP Estadual:    Alíquota ECF:    Posição do ECF: ---
+
+
+==========================================================================
+
+
+
+==========================================================================
+Código N 00 (NAO TRIBUTADO)
+
+Entrada
+----------
+Alíquota: 0,00   Redução: 0,00   Incentivo (%):0,00   Tabela B: 41    CSOSN:    CFOP Estadual:    CFOP Interestadual: 
+
+
+Saída (Nota Fiscal)
+-----------------------
+Alíquota: 0,00    Redução: 0,00    Incentivo(%): 0,00    Tabela B: 41   CSOSN:    CFOP Estadual:   
+
+
+Saída (Nota Fiscal) - Interestadual
+-------------------------------------------
+Alíquota: 0,00   Redução: 0,00    CFOP Interestadual:    Tabela B: 41
+
+
+Saída (Cupom Fiscal / Consulmidor Fiscal)
+------------------------------------------------------
+Simbologia: N    Tabela B: 41    CSOSN:      CFOP Estadual:     Alíquota ECF: 0,00   Posição no ECF:   
+
+==========================================================================
+
+
+==========================================================================
+Código T 07 (TRIBUTACAO 7)
+
+Entrada
+----------
+Alíquota: 7,00    Redução: 0,00    Incentivo (%): 0,00    Tabela B: 00     CSOSN:       CFOP Interestadual:     
+
+
+Saída (Nota Fiscal)
+------------------------
+Alíquota: 7,00     Redução: 0,00     Incentivo(%):       Tabela B: 00     CSOSN:       CFOP Estadual:   
+
+
+Saída (Nota Fiscal)  -  Interestadual
+---------------------------------------------
+Alíquota: 0,00    Redução(%):0,00      CFOP Interestadual:     Tabela B:00    
+
+
+Saída (Nota Fiscal / Consumidor Final)
+--------------------------------------------------
+Simbologia: T      Tabela B:      CSOSN:     CFOP Estadual:     Alíquota: 7,00
+
+
+==========================================================================
+
+
+
+==========================================================================  
+
+Código T 18 (TRIBUTACAO 18)
+
+Entrada
+----------
+Alíquota: 18,00     Redução: 0,00   Incentivo(%): 0,00   Tabela B: 00   CSOSN: 102    CFOP Estadual:         CFOP Interestadual:  
+
+
+Saída (Nota Fiscal)
+------------------------
+Alíquota: 18,00    Redução: 0,00   Incentivo(%): 0,00     Tabela B: 00     CSOSN: 102    CFOP Estadual: 51020   
+
+
+Saída (Nota Fiscal) - Interestadual
+-------------------------------------------
+Alíquota: 0,00   Redução: 0,00    CFOP Interestadual:     Tabela B: 00
+
+
+
+Saída (Cupom Fiscal / Consumidor Final)
+------------------------------------------------------
+Simbologia: T      Tabela B: 00      CSOSN: 102     CFOP Estadual: 5102    Alíquota: 18,00      Posição no ECF:   
+
+
+==========================================================================
+
+
+
+
+
+Código T 17 (TRIBUTACAO 17)
+
+Entrada
+----------
+Alíquota: 17,00 Redução: 0,00    Incentivo(%): 0,00    Tabela B: 00     CSOSN:        CFOP Estadual:   CFOP Interestadual:
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Saída (Nota Fiscal)
+-------
+Alíquota: 17,00      Redução: 0,00     Incentivo(%): 0,00      Tabela B: 00     CSOSN:     CFOP Estadual: 
+
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Saída (Nota Fiscal) - Interestadual
+-------------------------------------------
+Alíquota: 0,00     Redução:  0,00      CFOP Interestadual:       Tabela B: 
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Saída (Cupom Fiscal / Consumidor Final)
+----------------------------------------------------
+Símbolo: T	      Tabela B: 00      CSOSN:       CFOP Estadual:                Alíquota ECF:   17,00
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Tributacao tributacoes
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

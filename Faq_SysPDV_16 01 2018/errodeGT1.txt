@@ -1,0 +1,7 @@
+Para corrigir erro de GT no PAF SysPDV (gt)
+
+Codigo: 235/
+
+
+Logs >'errodegt' ,  erro de gt
+

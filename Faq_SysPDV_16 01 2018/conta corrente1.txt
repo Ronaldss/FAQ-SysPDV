@@ -1,0 +1,7 @@
+CONTA CORRENTE
+
+Financeiro - Tesouraria - Conta Corrente:
+
+Codigo: 001      Tipo de conta: CAIXA    Descricao:  CONTA EMPRESA
+
+:-)

@@ -1,0 +1,7 @@
+Erro ENVIANDO  CNC
+o tef execulta constantemente e dar o mesmo erro.
+
+	SOLUCAO:
+	acessar banco mov e apagar toda a linha (sinal de menos) da tabela "CUPOMTEFDISC"
+
+Log> erro cnc ; tefcnc ; tef

@@ -1,0 +1,4 @@
+conjunto de chaves nao esta definido
+
+solucao
+-- verificar certificado

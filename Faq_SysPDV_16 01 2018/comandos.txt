@@ -1,0 +1,58 @@
+:::::::::::::::::::::::::::::: COMANDOS ::::::::::::::::::::::::::::::::::::::: 
+
+* optionalfeatures - ativar ou desativar recursos do Windows.
+
+* net share - compartilhamentos
+
+* net (start) ou (stop) - iniciar ou parar sevico no windows
+
+*  netstat - verificar coneccoes wireless
+   netstat -s   - Exibir estatistica de protocolo e conexao de rede TCP/IP.
+   netstat -noa  - exibir PID 
+
+* arp - a
+  arp - d  (ip da maquina) -- excluir registro deste IP
+
+-------------------------------------------------------------------------------
+* Trabalhando com o errorlevel.
+
+    tasklist /fi "imagename eq notepad.exe"  |find "notepad.exe"  seguido de um
+    %errorlevel% para saber se deu erro ou nao.
+
+    Se deu erro %errorlevel% = 1
+    Se nao erro %errorlevel% = 0
+
+    cd -- mostra caminho atua
+
+-------------------------------------------------------------------------------
+                                     =========
+                                     COMANDO IF
+                                     ========= 
+Estrura IF 
+
+equ -- igual      --->>  ex: if 1 equ 1 (echo Sim) else (echo Nao)
+neq -- diferente
+lss -- menor que
+leq -- menor que ou igual
+gtr -- maior que
+geq -- maior que ou igual
+exist -- verifica se algo existe ou nao
+not exist -- inverte o resultado final do parametro exist
+defined -- se estiver definido. (Pode ser utilizado p/ saber se uma variavel 
+foi criada)
+
+
+Trabalhando com o errorlevel.
+
+tasklist /fi "imagename eq notepad.exe"  |find "notepad.exe"  seguido de um
+%errorlevel% para saber se deu erro ou nao.
+
+Se deu erro %errorlevel% = 1
+Se não erro %errorlevel% = 0
+
+cd -- mostra caminho atual
+-------------------------------------------------------------------------------
+
+
+
+ (comando)

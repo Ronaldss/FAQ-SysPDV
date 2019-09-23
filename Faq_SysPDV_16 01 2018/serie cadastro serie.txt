@@ -1,0 +1,10 @@
+Serie
+
+Serie 0 - Homologacao
+Serie  1 - Producao
+
+ex: 
+
+Modelo       Serie           N. inicial           N. Final 	   N. Utilizado
+
+NFCe             0           000000001             99999999        (verificar)

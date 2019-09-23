@@ -1,0 +1,12 @@
+:::::::::::::::::::::::  Problema - NFCe pendente com a rejeicao 613  :::::::::::::::::::::::
+
+
+613 - Rejeicao: Codigo Numerico informado na chave de acesso difere do codigo numerico da nf-e
+
+
+O tecnico da casamagalhaes  pedio pra procurar  o nfce nestas tabelas do baco server
+no caso a tabela eh a TRANSCAO, ITEVDA, FINALIZACAO, TRANSACAOXMLNOTA
+
+_____________________________________________________________________________________________
+|                 O Helio alterou as tabelas TRANSACAO e TRANSACAOXMLNOTA                   |
+---------------------------------------------------------------------------------------------

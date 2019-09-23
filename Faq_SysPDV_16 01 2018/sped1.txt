@@ -1,0 +1,19 @@
+:::::::  Gerar Arquivo Fiscal  :::::::::
+
+Precisa cadastrar o Contador e a empresa em FISCO
+no cadastro do contribuinte marque o campo Perfil como "Perfil - A", porque em Alagoas eh assim.
+
+Escolhe o destino: SPED FISCAL
+
+Tipo de registro  para clientes que usam PAF
+ marca * Nota Fiscal
+ marca * Cupom Fiscal
+
+Versao Layout: 013
+
+Dt Pagamento Imp. : [(sempre no dia 25  do proximo mes escolhido no periodo)]
+
+Cod Receita Icms: 13170
+
+
+

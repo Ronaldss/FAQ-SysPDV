@@ -1,0 +1,9 @@
+ERRO: (erro SSL )
+000 - Erro Interno: 12157 Erro HTTP: 0Erro: Requisicao nao enviada. 12157 - Erro no suporte a canais seguros
+
+	
+	SOLUCAO:
+	Utilitarios-Interface-Importacao-WebServices e clica em Importar-F2
+
+	Depois verificar na Guia "Avancadas" de Propriedade de Internet, 
+	e marcar "APENAS" as opcoes 'Usar SSL 1.0' e 'Usar SSL 2.0', e o restante fica desmarcado.

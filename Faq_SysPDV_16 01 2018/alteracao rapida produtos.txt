@@ -1,0 +1,12 @@
+ALTERARCAO RAPIDA NOS PRODUTOS
+
+ERRO: cupom nao permite desconto!
+
+SOLUCAO: O referido cliente havia cadastrado todos os produtos sem permitir o desconto do mesmo na finalizacao da venda. Como havia muitos produtos e precisava-se alterar todos de uma unica vez.
+
+* Cadastro-Produtos-Alterar informacoes
+
+escolher a opcao desejada e alterar.
+
+
+Log> (alteracao rapida produtos)

@@ -1,0 +1,6 @@
+590/  CONFIGURACAO PDV - NFCE
+---------------------------------------------------
+
+195/    FECHAMENTO DE CAIXA COM REDUCAO Z
+
+197/  FECHAMENTO DE CAIXA SEM REDUCAO Z

@@ -1,0 +1,8 @@
+Permitir alterar preco /desconto - PEDIDO DE VENDA
+
+
+Parametro Server 199
+
+e escolhe a opcao a baixo.
+
+Log> Alterar preco :-)

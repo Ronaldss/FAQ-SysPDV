@@ -1,0 +1,5 @@
+Erro na reinstalacao do caixa (erro comum)
+
+SOLUCAO: deletar o contudo no banco mov - caixa - CXASERNUM
+
+CB 300R

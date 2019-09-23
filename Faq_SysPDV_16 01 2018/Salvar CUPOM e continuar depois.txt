@@ -1,0 +1,7 @@
+128/ - SALVAR CUPOM PARA REIMPRESSAO
+	salvar cupom, para passar outro cupom em quanto isso, e depois recuperar. 
+
+129/ - REIMPRESSAO CUPOM SALVO
+	continuar cupom de onde parou e finalizar
+
+Log> salvar cupom e continuar depois

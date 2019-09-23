@@ -1,0 +1,3 @@
+Some antivirus programs automatically flag the exe files that this application creates as malware.
+If you encounter a false positive, in which a converted exe is erroneously recognized as malware, 
+please contact the offending antivirus vendor for further assistance.

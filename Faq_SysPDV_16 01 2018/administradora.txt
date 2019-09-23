@@ -1,0 +1,45 @@
+ADMINISTRADORA
+
+Cadastro - Caixa - Finalizadora - Cartao - Administradora
+
+	Descricao : REDECARD
+	Cliente     : 00000000001 REDECARD 
+	CNPJ       : 01425787000104
+	Plano de Contas: ...
+	C. corrente : CONTA EMPRESA 
+
+
+Cadastro - Caixa - Finalizadora - Cartao - Administradora
+	
+	Descrição : CIELO S/A
+	Cliente     : CIELO S/A
+	CNPJ        : 01027058000191
+	Plano de Contas: ...
+	C. corrente: CONTA EMPRESA
+
+----------------------------------------------------------------------------
+Cadastro de cliente CIELO S/A
+
+	Nome CIELO S/A
+	CNPJ : 01027058000191
+	CEP  : 06454050
+	Logradouro: GRAJAU
+	BAIRRO: ALFA VILA
+	UF: SP
+	CIDADE: BARUERI
+	IE: ISENTO
+	FONE: 01230113000 
+
+Cadastrando cliente Redecard
+
+	Nome: REDECARD
+	CNPJ : 01425787000104
+	CEP  : 06460040
+	Logradouro: AV. MARCOS PENTEADO DE ULHOA RODRIGUES   939
+	Bairro: TAMBORE
+	UF: SP
+	CIDADE: BARUERI
+	IE: ISENTO
+	Fone: 01230113000
+
+Log> "administradoras"

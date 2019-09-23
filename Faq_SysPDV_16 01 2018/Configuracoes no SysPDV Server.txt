@@ -1,0 +1,14 @@
+::::::: Configuracoes iniciais no SysPD ::::::::::
+
+0 - Descompactar e instalar versoes (instalacao)
+
+1 - Abrir server - parametros server codigo 112
+
+2 - Importar NCM, CEST e CFOP
+
+3 - Fazer cadastro do Proprio, usando "pos Cash"
+
+
+*** Assim concluimos as configuracoes no SysPDV Server ***
+
+Log> configuracao

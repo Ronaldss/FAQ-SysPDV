@@ -1,0 +1,6 @@
+Transacao presa no caixa
+
+
+usar o codigo 810/ no PDV "Forcar o envio das transacoes para o servidor"
+
+acessar a tabela TRASACAO - TRNTRF e no primeiro campo que nao tenha a letra T, colocar.

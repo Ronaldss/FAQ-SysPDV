@@ -1,0 +1,7 @@
+::: Conjunto de chaves nao esta definido :::
+
+	solucao
+	-- verificar certificado
+
+
+log: conjunto de chaves , chave , conjuntos

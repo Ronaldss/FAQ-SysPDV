@@ -1,0 +1,30 @@
+CADASTRO DE CFOP (de uso.)
+
+Estoque - Nota Fiscal - Operacoes
+
+
+Codigo                             Descricao
+0001                                ENTRADA DE NOTA
+0002                                SAIDA DE NOTA
+
+
+
+
+-- Padrao Entrada de Nota
+
+11020  "Entrada"  "Normal"
+21020  "Entrada de fora do estado   -- Na nota geralmente vem o "6101 - que representa industrializacao."
+31020
+14030  "Entrada de dentro do estado - Substituicao Tributaria" -- Na nota geralmente vem o 5403/5403
+
+
+
+
+- ----------------------------------------------------------------------------------------------------------------------------------- -
+
+-- Padrao Saída de Nota
+
+51020 "Saída" "Normal"
+61020
+71020 "Vendas de mercadoria adquiridas ou recebidas de terceiros p industrializacao ou comercializacao. 
+            Tbm venda por estabelecimento de cooperativa"

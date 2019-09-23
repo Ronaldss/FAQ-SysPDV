@@ -1,0 +1,9 @@
+Para utilizar o banco de cliente que tenha "controle" proprio.
+
+acessar banco SysPDV_srv.FDB tabela PROPRIO
+
+coluna PRPCVH, apagar conteudo e comitar.
+
+
+
+(usar banco de cliente)

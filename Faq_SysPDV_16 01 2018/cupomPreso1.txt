@@ -1,0 +1,9 @@
+::::   Cupom preso ou pendente no syspdv    :::::
+
+acessar o icone do Syspdv Tools - 03 FechaCupSysp
+
+escolhe a opcao desejada e digita a senha sysfecha e dar Enter
+
+
+log: cupom fiscal , cupom preso , cupom pendente
+

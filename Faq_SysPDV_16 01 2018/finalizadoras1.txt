@@ -1,0 +1,25 @@
+FINALIZADORAS
+
+
+Cadastro - Caixa - Finalizadora - Finalizadora
+
+
+Ao todo sao:
+
+Codigo                      Descricao
+001                         DINHEIRO
+002                         CHEQUE
+003                         CATAO CREDITO
+004                         CATAO DEBITO
+----------------------------------------------------------------------
+
+
+Codigo 001   -   DINHEIRO
+
+O campo 'ECF'  - eh o indece na Leitura X, referente a forma de pagamento.
+campo 'Conta Corrente' - fica zerado para dinheiro.
+
+
+enter -- enter -- enter
+
+Seleciona a Especie
